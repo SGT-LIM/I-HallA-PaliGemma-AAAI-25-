@@ -8,7 +8,6 @@ This is an **unofficial** release of the paper **Evaluating Image Hallucination 
 
 > [**Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering**](https://arxiv.org/abs/2409.12784),            
 > Youngsun Lim, Hojun Choi, Pin-Yu Chen, Hyunjung Shim
-> In: Proc. IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 2023           
 > [[Paper](https://arxiv.org/abs/2409.12784)][[Supp](https://arxiv.org/abs/2409.12784)][[project page(TBD)](https://github.com/hchoi256/evaluate-hallucination-PaliGemma)][[Bibetex](https://github.com/hchoi256/evaluate-hallucination-PaliGemma#Citation)]
 
 
