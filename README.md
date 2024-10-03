@@ -22,12 +22,6 @@ It requires the following packages:
 - transformers==4.45.1
 - numpy==1.26.3
 
-```bash
-pip install openmim mmengine
-mim install "mmcv>=2.0.0rc4"
-pip install git+https://github.com/lvis-dataset/lvis-api.git
-mim install mmdet>=3.0.0rc6
-```
 
 ## Testing
 ### PaliGemma
