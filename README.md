@@ -1,9 +1,9 @@
 # I-HallA via PaliGemma
 
 <p float="left">
-  <img src="https://github.com/user-attachments/assets/800e434b-f170-46f3-b87f-883e90e01fb8" width="100" />
-  <img src="https://github.com/user-attachments/assets/e6a36561-53c0-42f5-a083-a18df293a01e" width="100" />
-  <img src="https://github.com/user-attachments/assets/b9c03639-7edb-4b6d-b2c4-4f043e1952d5" width="100" />
+  <img src="https://github.com/user-attachments/assets/800e434b-f170-46f3-b87f-883e90e01fb8" width="150" />
+  <img src="https://github.com/user-attachments/assets/e6a36561-53c0-42f5-a083-a18df293a01e" width="150" />
+  <img src="https://github.com/user-attachments/assets/b9c03639-7edb-4b6d-b2c4-4f043e1952d5" width="150" />
 </p>
 
 [//]: # ([![PWC]&#40;https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/aligning-bag-of-regions-for-open-vocabulary/open-vocabulary-object-detection-on-mscoco&#41;]&#40;https://paperswithcode.com/sota/open-vocabulary-object-detection-on-mscoco?p=aligning-bag-of-regions-for-open-vocabulary&#41;)
