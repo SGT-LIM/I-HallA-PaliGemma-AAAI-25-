@@ -2,7 +2,6 @@
 
 <p float="left">
   <img src="https://github.com/user-attachments/assets/800e434b-f170-46f3-b87f-883e90e01fb8" width="150" />
-  <img src="https://github.com/user-attachments/assets/e6a36561-53c0-42f5-a083-a18df293a01e" width="150" />
   <img src="https://github.com/user-attachments/assets/b9c03639-7edb-4b6d-b2c4-4f043e1952d5" width="150" />
 </p>
 
@@ -13,7 +12,7 @@
 This is an **unofficial** release of the paper **Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering**.
 
 > [**Evaluating Image Hallucination in Text-to-Image Generation with Question-Answering**](https://arxiv.org/abs/2409.12784),            
-> Youngsun Lim, Hojun Choi, Pin-Yu Chen, Hyunjung Shim
+> Youngsun Lim, Hojun Choi, Hyunjung Shim
 > [[Paper](https://arxiv.org/abs/2409.12784)][[Supp](https://arxiv.org/abs/2409.12784)][[project page(TBD)](https://github.com/hchoi256/evaluate-hallucination-PaliGemma)][[Bibetex](https://github.com/hchoi256/evaluate-hallucination-PaliGemma#Citation)]
 
 
